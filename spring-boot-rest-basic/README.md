@@ -1,5 +1,7 @@
 # Descripcion del proyecto:
+Proyecto simple rest con sus anotaciones (get,post,put,delete) y datos dummy par aser consultados
 
+# Contenido del proyecto:
 * APP:
     * JDK java 8
     * maven
