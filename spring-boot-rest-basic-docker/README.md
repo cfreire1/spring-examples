@@ -9,17 +9,17 @@
 
 # Instalacion
 
-1. Ejecutar SpringBoot
-2. Postman 
-
-3. Empaquetar proyecto
+1. Empaquetar proyecto
 ```
   mvn clean
   mvn package
 ```
 
-4. Ejecucion desde contenedor Docker
+1. Ejecucion desde contenedor Docker
 ```
     docker build -t img-spring-boot-rest-basic-docker .
     docker run --name spring-boot-rest-basic-docker -p 8080:8080 img-spring-boot-rest-basic-docker 
 ```
+
+3. Postman 
+
