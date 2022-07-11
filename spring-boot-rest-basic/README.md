@@ -4,7 +4,6 @@
     * JDK java 8
     * maven
 
-***
 # Instalacion
 
 1. Ejecutar SpringBoot
