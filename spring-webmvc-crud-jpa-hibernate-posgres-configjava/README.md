@@ -1,4 +1,4 @@
-/home/vm-ubuntu/Escritorio/prox-git/git-hub/spring-examples/spring-webmvc-crud-jpa-hibernate-posgres-configxml# Descripcion del proyecto:
+# Descripcion del proyecto:
 * Proyecto Spring web mvc CRUD JPA, conectado a base de datos poscressql
 * Configuracion de WebMvcConfig en clases `Java`
 
