@@ -2,7 +2,7 @@
 * Proyecto Spring boot CRUD JPA, conectado a base de datos poscressql
 
 Diagrama de arquitectura que se siguio en el proyecto
-![Image text](src/main/resources/static/arquitectura-rest.jpg)
+![Image text](images/arquitectura-rest.jpg)
 
 # Contenido del proyecto:
 * APP:
