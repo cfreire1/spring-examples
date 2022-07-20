@@ -126,3 +126,11 @@ public interface ProductCrudRepository extends CrudRepository<Product,Integer> {
           }
       }
 ```
+#### Errores 
+* connection refused postgres docker
+	* https://stackoverflow.com/questions/48422824/connection-refused-postgres-docker
+```
+//[1] En su archivo de propiedades, está indicando que postgres se ejecuta en el mismo contenedor que su aplicación Spring Boot (localhost), lo cual no es cierto ya que se ejecuta en un contenedor diferente.
+//[2] También puede señalar la ip del puente docker, que generalmente es 172.17.0.1.
+```
+
