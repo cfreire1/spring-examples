@@ -39,6 +39,8 @@ La aplicacion se subdivide en 3 capas (application, domain, infrastructure) en d
 
 * Vista global de los packages
 
+![Image text](image/captura-package.png)
+
 # Ejecutar
 1. Crear container de posgresql
 ```
